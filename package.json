@@ -1,0 +1,14 @@
+{
+  "name": "sd-android-format-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dbanksdesign/sd-android-format-example.git",
+  "author": "Danny Banks <djb@amazon.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "style-dictionary build --config ./config.js"
+  },
+  "devDependencies": {
+    "style-dictionary": "^2.8.3"
+  }
+}

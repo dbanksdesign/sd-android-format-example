@@ -1,0 +1,9 @@
+{
+  "font": {
+    "scale": {
+      "small": { "value": 10 },
+      "medium": { "value": 20 },
+      "large": { "value": 30 }
+    }
+  }
+}
